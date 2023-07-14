@@ -15,4 +15,4 @@ Clicking on these links will direct you to a Sprint template, make sure to fill-
 
 ## How to sign up for a sprint
 
-When you have decided you want to join a particular sprint, click the `asignees` button on the top left of the issue page for the sprint and assign yourself.
+When you have decided you want to join a particular sprint, click the `assignees` button on the top right of the issue page for the sprint and assign yourself.
